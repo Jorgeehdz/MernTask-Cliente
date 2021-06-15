@@ -18,4 +18,4 @@ Here are some photos about the proyect.
 
 ![List of tasks](https://user-images.githubusercontent.com/51522362/121627463-01fb6300-ca3d-11eb-9e30-7d8e02a1b187.png)
 
-![MERNTasks](https://user-images.githubusercontent.com/51522362/121957137-9f011900-cd27-11eb-9dfa-25cc6d176af5.png)
+![MERNTasks](https://user-images.githubusercontent.com/51522362/122074959-4c733b80-cdbf-11eb-996d-07df28d605e1.png)
